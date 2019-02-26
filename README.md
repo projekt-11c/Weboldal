@@ -1,2 +1,2 @@
 # Weboldal
-# Munkanapló szerintem Google Drive-os fájlt megosztottam veletek.
+# Google Drive-os munkanapló fájlt megosztottam veletek.
