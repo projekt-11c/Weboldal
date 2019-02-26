@@ -1,2 +1,2 @@
 # Weboldal
-# Munkanapló szerintem Google Drive-os megoldás legyen
+# Munkanapló szerintem Google Drive-os fájlt megosztottam veletek.
