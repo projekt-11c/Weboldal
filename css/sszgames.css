@@ -1,26 +1,29 @@
 h1, h2, h3, h4, h5, h6{
     text-align: center;
 }
-.rl-kepek{
+.carousel-kepek{
     width: 100%;
 }
-.container{
-    background-color: white; 
+.row{
+    background-color: white;
+    margin-bottom: 5px;
+    margin-top: 5px;
 }
 body{
     background-color: black;
-    
 }
 @media screen and (min-width: 576px){
-    .container{
+    .row{
         border-radius: 10px 10px;
+    }
+    .vel{
+        width: 95%;
     }
 }
 .vel{
-    width: 95%;
-    padding: 3px;
     background-color: whitesmoke;
     margin: auto;
     border-radius: 3px 3px;
     border-left: 1px solid red;
+    padding: 5px;
 }
