@@ -5,12 +5,19 @@ h1, h2, h3, h4, h5, h6{
     width: 100%;
 }
 .row{
-    background-color: white;
+    background-color: rgba(255,255,255,0.75);
     margin-bottom: 5px;
     margin-top: 5px;
 }
 .blackbox{
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 1px;
+    color: white;
+}
+.whitebox{
+    background-color: rgba(255,255,255,0.95);
+    border-radius: 1px;
+    color: black;
 }
 body{
     background-color: black;
@@ -18,15 +25,27 @@ body{
 @media screen and (min-width: 576px){
     .row{
         border-radius: 10px 10px;
+        background-color: rgba(255,255,255,1);
     }
     .vel{
         width: 95%;
     }
 }
+.rl{
+    background-image: url(../img/hatterek/dark-to-light-blue.png);
+}
+.f1{
+    background-image: url(../img/hatterek/red-to-white.png);
+}
+.mm{
+    background-color: red;
+}
 .vel{
-    background-color: whitesmoke;
+    background-color: white;
     margin: auto;
     border-radius: 3px 3px;
     border-left: 1px solid red;
     padding: 5px;
+    color:black;
+    text-shadow: 1px 1px whitesmoke;
 }
