@@ -1,0 +1,7 @@
+body{
+    background-color: black;
+}
+.container{
+    border-radius: 5px 5px;
+    background-color: white;
+}
