@@ -8,3 +8,17 @@ p{
 h1, h2, h3, h4, h5, h6{
     font-weight: bolder;
 }
+
+.menu{
+    animation-name: menu-ani;
+    animation-duration: 2s;
+}
+/* Animation */
+@keyframes menu-ani{
+    from{
+        transform: translate(0px, -100px);
+    }
+    to{
+        transform: translate(0px, 0px);
+    }
+}
