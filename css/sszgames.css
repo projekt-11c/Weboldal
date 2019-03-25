@@ -33,9 +33,11 @@ body{
 }
 .rl{
     background-image: url(../img/hatterek/dark-to-light-blue.png);
+    background-size: contain;
 }
 .f1{
     background-image: url(../img/hatterek/red-to-white.png);
+    background-size: contain;
 }
 .mm{
     background-color: red;

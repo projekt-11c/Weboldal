@@ -33,16 +33,16 @@ body{
     }
 }
 .lol{
-	height:100%;
     background-image: url(../img/hatterek/yellow-to-green.png);
+    background-size: contain;
 }
 .hots{
-	height:100%;
     background-image: url(../img/hatterek/blue-to-black.png);
+    background-size: contain;
 }
 .wow{
-	height:100%;
     background-image: url(../img/hatterek/blue-to-red.png);
+    background-size: contain;
 }
 .vel{
     background-color: white;
