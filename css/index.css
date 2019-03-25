@@ -1,0 +1,10 @@
+.row{
+    border-radius: 3px;
+}
+.la{
+    border-left: 2px solid red;
+    border-radius: 5px 5px;
+}
+.indezet{
+    color: gray;
+}
