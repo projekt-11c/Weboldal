@@ -1,0 +1,15 @@
+.car{
+	height:400px;
+	width:400px;
+}
+.kar{
+	float:right;
+	width:50%;
+	border:solid white 2px;
+}
+.kar1{
+	float:right;
+	border:solid white 2px;
+	height:405px;
+	width:405px;
+}
