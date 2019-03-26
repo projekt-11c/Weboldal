@@ -7,9 +7,12 @@ body{
 	background-color:rgba(100,149,237,0.9);
 	border:solid 3px black;
 }
-ul{
+li{
 	font-size:30px;
 }
 .car{
 	height:400px;
+}
+.kar{
+	float:right;
 }
