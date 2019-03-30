@@ -26,7 +26,9 @@ td{
 body
 {
 	background-image:url(../img/rts/hatter.jpg);
-	background-repeat:none;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-color:#6893f1;
 }
 h3
 {
@@ -42,4 +44,23 @@ h3
 	margin-left:5px;
 	margin-right:5px;
 }
-
+@media (max-width: 1919px)
+{
+	body
+	{	
+	background-image:url(../img/rts/hatter2.jpg);
+	background-repeat:no-repeat;
+	background-position:center;
+	
+	}
+}
+@media (max-width: 1305px)
+{
+	body
+	{	
+	background-image:url(../img/rts/hatteralap.jpg);
+	background-repeat:no-repeat;
+	background-color:#7dad71;
+	background-position:top;
+	}
+}
