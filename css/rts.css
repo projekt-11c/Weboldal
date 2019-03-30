@@ -64,3 +64,10 @@ h3
 	background-position:top;
 	}
 }
+
+.link:hover
+{
+	color:black;
+    font-style: oblique;
+}
+
