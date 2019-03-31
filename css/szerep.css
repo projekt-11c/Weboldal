@@ -7,7 +7,7 @@ body{
 	background-color:rgba(100,149,237,0.9);
 	border:solid 3px black;
 }
-li{
+.list-group-item{
 	font-size:30px;
 }
 .car{
