@@ -12,3 +12,19 @@
 {
 	font-size:15px;
 }
+body{
+    background-image: url(../img/hatterek/controllers.jpg);
+    background-size: 100%;
+}
+.row{
+    background-color: rgba(255,255,255,0.95);
+}
+@media screen and (min-width: 576px)
+{
+    .row{
+        background-color: white;
+    }
+    body{
+        background-size: 50%;
+    }
+}
